@@ -1,0 +1,12 @@
+C:\Users\super\OneDrive\Documents\c#\ClassLibraryProjects\FigureLibrary\bin\Debug\net7.0\FigureLibrary.deps.json
+C:\Users\super\OneDrive\Documents\c#\ClassLibraryProjects\FigureLibrary\bin\Debug\net7.0\FigureLibrary.dll
+C:\Users\super\OneDrive\Documents\c#\ClassLibraryProjects\FigureLibrary\bin\Debug\net7.0\FigureLibrary.pdb
+C:\Users\super\OneDrive\Documents\c#\ClassLibraryProjects\FigureLibrary\obj\Debug\net7.0\FigureLibrary.csproj.AssemblyReference.cache
+C:\Users\super\OneDrive\Documents\c#\ClassLibraryProjects\FigureLibrary\obj\Debug\net7.0\FigureLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\OneDrive\Documents\c#\ClassLibraryProjects\FigureLibrary\obj\Debug\net7.0\FigureLibrary.AssemblyInfoInputs.cache
+C:\Users\super\OneDrive\Documents\c#\ClassLibraryProjects\FigureLibrary\obj\Debug\net7.0\FigureLibrary.AssemblyInfo.cs
+C:\Users\super\OneDrive\Documents\c#\ClassLibraryProjects\FigureLibrary\obj\Debug\net7.0\FigureLibrary.csproj.CoreCompileInputs.cache
+C:\Users\super\OneDrive\Documents\c#\ClassLibraryProjects\FigureLibrary\obj\Debug\net7.0\FigureLibrary.dll
+C:\Users\super\OneDrive\Documents\c#\ClassLibraryProjects\FigureLibrary\obj\Debug\net7.0\refint\FigureLibrary.dll
+C:\Users\super\OneDrive\Documents\c#\ClassLibraryProjects\FigureLibrary\obj\Debug\net7.0\FigureLibrary.pdb
+C:\Users\super\OneDrive\Documents\c#\ClassLibraryProjects\FigureLibrary\obj\Debug\net7.0\ref\FigureLibrary.dll
